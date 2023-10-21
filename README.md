@@ -1,8 +1,9 @@
 # duangcloud官网最新地址
 
-最新地址：[portal.dc-site5.com](https://portal.dc-site5.com/#/register?code=nBxBXCgr)
+域名更换&防失联公告
+原域名已被墙污染，需使用全局代理才可以访问
 
-防失联请收藏域名：[duangweb.com](https://duangweb.com)
+最新地址：[portal.dc-site5.com](https://portal.dc-site5.com/#/register?code=nBxBXCgr)
 
 ## duangcloud简介
 
@@ -10,7 +11,11 @@ DuangCloud，也被称为Duang机场，是一家专业的老牌优质SS机场，
 
 ## duangcloud优惠码
 
-端午9折优惠码：622
+9折优惠码：happydays
+
+8折优惠码（mini不可用，限年付）：happyhappydays
+
+数量有限，用完为止，每人限用一次
 
 ## 特色
 
@@ -86,3 +91,8 @@ DuangCloud，也被称为Duang机场，是一家专业的老牌优质SS机场，
 虽然DuangCloud看着价格稍贵，但其实很便宜，因为它从来就没有倍率（写多少实际就是多少流量），而且全是专线，用过有倍率专线流量的机场老用户肯定都懂。
 
 DuangCloud套餐流量在每月结算日会自动重置流量。由于成本的提升，现在几乎所有稳定机场都涨价（不包括随时准备跑路机场），或者用流量倍率变相的涨价，DuangCloud套餐也终于全部涨价了。DuangCloud是专业的Shadowsocks/SS节点购买网站，性价比高，现在已经全部升级到企业级华为BGP专线。
+
+防失联请收藏域名：[duangweb.com](https://duangweb.com)
+点我加入Telegram群组：https://t.me/duangcloud（加群输验证码）
+点我加入Telegram频道：https://t.me/duangcloud_channel
+定制客户端也具有防失联功能，建议下载
