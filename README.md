@@ -15,11 +15,17 @@ DuangCloud有官方的Windows、MacOS、Android定制客户端，简单方便防
 
 ## duangcloud优惠码
 
+9-折优-惠码：welcome （新用户有效）
+
+9-折优-惠码：www.moyann.com （新老用户长期有效）
+
+9-折优-惠码：iYDaff （新老用户长期有效）
+
 DuangCloud五一优-惠活动
 
-85-折优-惠码：dc51off15
+85-折优-惠码：dc51off15 （5月15日截止）
 
-8-折优-惠码（限年付）：dc51off20 （Diamond不参与活动）
+8-折优-惠码（限年付）：dc51off20 （Diamond不参与活动，5月20日截止）
 
 数量有限，用完为止，每人限用一次
 
