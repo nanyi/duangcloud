@@ -1,7 +1,4 @@
-# duangcloud官网最新地址
-
-域名更换&防失联公告
-原域名已被墙污染，需使用全局代理才可以访问
+# duangcloud官网最新地址/优惠码
 
 最新地址：[portal.dc-site5.com](https://portal.dc-site5.com/#/register?code=nBxBXCgr)
 
@@ -20,14 +17,6 @@ DuangCloud有官方的Windows、MacOS、Android定制客户端，简单方便防
 9-折优-惠码：www.moyann.com （新老用户长期有效）
 
 9-折优-惠码：iYDaff （新老用户长期有效）
-
-DuangCloud五一优-惠活动
-
-85-折优-惠码：dc51off15 （5月15日截止）
-
-8-折优-惠码（限年付）：dc51off20 （Diamond不参与活动，5月20日截止）
-
-数量有限，用完为止，每人限用一次
 
 ## 特色
 
@@ -104,7 +93,5 @@ DuangCloud五一优-惠活动
 
 DuangCloud套餐流量在每月结算日会自动重置流量。由于成本的提升，现在几乎所有稳定机场都涨价（不包括随时准备跑路机场），或者用流量倍率变相的涨价，DuangCloud套餐也终于全部涨价了。DuangCloud是专业的Shadowsocks/SS节点购买网站，性价比高，现在已经全部升级到企业级华为BGP专线。
 
-防失联请收藏域名：[duangweb.com](https://duangweb.com)
-点这里加入Telegram群组：https://t.me/duangcloud（加群输验证码）
-点这里加入Telegram频道：https://t.me/duangcloud_channel
-定制客户端也具有防失联功能，建议下载
+## 关于7月19日广东省外速度受限的公告（已解决）
+已经更换完毕。 广东移动已于本周落实省间流量。目前正在调整资源以尽可能确保省外用户的带宽供应。 调整期间可能会有延迟增高和速度跑不满的情况。
